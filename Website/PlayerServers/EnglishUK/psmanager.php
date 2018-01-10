@@ -1,35 +1,35 @@
 <?php 
 $language = array( 
-	'filemanager' => 'File Manager',
-	'dashboard' => 'Dashboard',
-	'welcome' => 'Welcome',
-	'server_name' => '<b>Server Name:</b>',
-	'last_online' => '<b>Last Online:</b>',
-	'plan' => '<b>Plan:</b>',
-	'plans' => '<b>Plans:</b>',
-	'status' => '<b>Status</b>',
-	'players' => '<b>Players</b>',
-	'none_files_or_folders' => 'No files or folders could be found in this directory',
-	'edit' => '<i class="fa fa-pencil" aria-hidden="true"></i> Edit',
-	'successfully_updated' => 'Successfully Updated',
-	
-	'file_name' => 'File Name',
-	'content' => 'Content',
-	'save' => 'Save',
-	'cancel' => 'Cancel',
-	'delete' => 'Delete',
-	
-	'confirm_deletion' => 'Confirm deletion',
-	'delete_message' => 'Are you sure you want to delete',
-	'successfully_updated' => 'Successfully Updated',
-	
-	'confirm_cancel' => 'Are you sure you want to cancel?',
-	'yes' => 'Yes',
-	'no' => 'No',
+    'filemanager' => 'Filbehandler',
+    'dashboard' => 'Dashbord',
+    'welcome' => 'Velkommen',
+    'server_name' => '<b>Server Navn:</b>',
+    'last_online' => '<b>Sist pålogget:</b>',
+    'plan' => '<b>Plan:</b>',
+    'plans' => '<b>Planer:</b>',
+    'status' => '<b>Status</b>',
+    'players' => '<b>Spillere</b>',
+    'none_files_or_folders' => 'Ingen filer eller mapper funnet',
+    'edit' => '<i class="fa fa-pencil" aria-hidden="true"></i> endre',
+    'successfully_updated' => 'Oppdatering vellykket',
 
-	// errors
-	'successfully_deleted' => 'File/Folder successfully deleted',
-	'only_mvpplus_function' => 'Sorry, You need to be a MVP+ donator to use the download function',
-	'cant_delete' => 'Sorry, You can\'t delete the plugins folder',
-	'cant_rename_this' => 'Sorry, You can\'t rename the plugins folder',
+    'file_name' => 'Fil navn',
+    'content' => 'Innhold',
+    'save' => 'Lagre',
+    'cancel' => 'Avbryt',
+    'delete' => 'Slett',
+
+    'confirm_deletion' => 'Bekreft beslutningen din',
+    'delete_message' => 'Er du sikker på at du vil slette',
+    'successfully_updated' => 'Oppdatering vellykket',
+	
+	'confirm_cancel' => 'Er du sikker på at du vil avbryte?',
+	'yes' => 'Ja',
+	'no' => 'Nei',
+
+    // errors
+    'successfully_deleted' => 'Oppdatering vellykket', 
+    'only_mvpplus_function' => 'beklager, men du må være MVP+ for å kunne utføre denne handlingen',
+    'cant_delete' => 'beklager, men du kan ikke slette denne plugins mappen',
+    'cant_rename_this' => 'Beklager, men du kan ikke endre navnet på plugins mappen',
 );
